@@ -7,4 +7,3 @@
 heschy2/heschy2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-If you want to access some data I use in some projects, you can see them in this repoistory.
